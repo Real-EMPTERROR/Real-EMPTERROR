@@ -7,8 +7,8 @@ Location: Dimitrovgrad, Bulgaria
 
 Achievements:
 	•	Cracked 1 Denuvo game: Sonic Origins (Denuvo v16)
-	•	48 Indie Game Cracks
-	•	Over 200 Software Cracks
+	•	22 Indie Game Cracks
+	•	Over 80 Software Cracks
 
 ⸻
 
