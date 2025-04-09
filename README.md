@@ -21,7 +21,7 @@ Created Tools:
 Skills:
 	•	Languages: C++, C#, Python, JavaScript, Assembly
 	•	Expert in: Reverse engineering, exploit development, and DRM bypass (Denuvo, VMProtect)
-	•	Social Engineering: Hack without links
+	•	Social Engineering
 	•	Platform Manipulation: Steam, Ubisoft, and other systems
 
 ⸻
@@ -31,3 +31,5 @@ Philosophy:
 	•	Anti-corporate: Fighting DRM and digital restrictions
 	•	Digital Freedom: Cracking to make gaming accessible for everyone
 	•	Helping, Not Profiting: Does this work to help people, not for financial gain. No donations accepted.
+
+ made by chatgpt
